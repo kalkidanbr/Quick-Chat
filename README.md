@@ -44,20 +44,6 @@ Type messages to chat with others
 
 Type /quit to leave the chat
 
-💬 Example
-
-Client 1:
-
-Enter your name: Alice
-[Alice has joined the chat]
-Hello everyone!
-
-
-Client 2:
-
-Enter your name: Bob
-[Alice has joined the chat]
-Hi Alice!
 
 📝 Notes
 
